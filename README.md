@@ -8,7 +8,7 @@ I am a diligent researcher in the field of Natural Language Processing (NLP) who
 Internship at Bielefeld University, RA & TA at IASBS
 
 ## 💻 Skills
-Programming Languages: Python (6+ years), C++, C# (2 years)
+Programming Languages: Python (6+ years), C++
 
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahin-yousefi/) 
